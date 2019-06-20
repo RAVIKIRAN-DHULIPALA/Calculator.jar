@@ -14,11 +14,17 @@ replace the Classname with the class name of your program
 step 3: type the following command to create a executable jar file 
 
 ```jar -cvmf manifest.txt name_of_jar_file.jar Classname.class``` \
-replace the name_of_jar_file as you like and replace the Classname with the name of your class in the program.  
+replace the name_of_jar_file as you like and replace the Classname with the name of your class in the program. 
 
-which creates a .jar file with the name you have given in your working directory. 
+which creates a .jar file with the name you have given in your working directory.
 
-To execute the jar file run the following command 
+Description of options that are used in creating a jar file
+
+![](options.PNG)
+The ```f``` option indicates that you want the output to go to a file rather than to stdout.
+
+## To execute the jar file 
+run the following command 
 
 ```java -jar Classname.jar``` 
 
