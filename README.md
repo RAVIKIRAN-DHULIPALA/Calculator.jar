@@ -1,4 +1,4 @@
-# Creation of Jar file of Calculator Application in java
+# Creation of Jar file of Calculator.java
 
 I have taken my Existing Repository Calculator Application (https://github.com/RAVIKIRAN-DHULIPALA/Calculator-Applet) and Created a executable jar file which can run on any OS in which java is installed. \
 The Process of Creating a executable jar file \
