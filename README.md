@@ -25,4 +25,6 @@ To execute the jar file run the following command
 
 Once the jar file is created it can be executed from anywhere in the system.  
 
+The following Screenshot shows how i have run the above command to create a jar file and run it on my system.
 
+![] 
